@@ -21,7 +21,7 @@ UniversalFastDownloader is a blazingly fast, multi-threaded file downloader writ
 
 2.  Install the required dependencies:
     ```bash
-    pip install requests
+    pip install -r requirements.txt
     ```
 
 ### Usage
