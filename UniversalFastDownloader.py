@@ -30,7 +30,7 @@ class UltraFastDownloader:
         if user_agent:
             self.headers['User-Agent'] = user_agent
         else:
-            self.headers['User-Agent'] = 'netdisk;6.0.0.12;PC;PC-Windows;10.0.16299;WindowsBaiduYunGuanJia'
+            self.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0'
         
         # 设置Cookie
         if cookies:
